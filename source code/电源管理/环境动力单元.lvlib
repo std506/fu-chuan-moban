@@ -10,7 +10,6 @@
 		<Item Name="周期设置_采配水.vi" Type="VI" URL="../电源管理/周期设置_采配水.vi"/>
 	</Item>
 	<Item Name="subvi" Type="Folder">
-		<Item Name="串口配置.vi" Type="VI" URL="../subvi/串口配置.vi"/>
 		<Item Name="原始值工程转换.vi" Type="VI" URL="../subvi/原始值工程转换.vi"/>
 		<Item Name="有符号24位转32位有符号数.vi" Type="VI" URL="../subvi/有符号24位转32位有符号数.vi"/>
 		<Item Name="操作日志.vi" Type="VI" URL="../subvi/操作日志.vi"/>
@@ -41,14 +40,24 @@
 		<Item Name="close MB.vi" Type="VI" URL="../通讯/close MB.vi"/>
 	</Item>
 	<Item Name="设置" Type="Folder">
+		<Item Name="报警设置.vi" Type="VI" URL="../设置/报警设置.vi"/>
+		<Item Name="冰箱设置.vi" Type="VI" URL="../设置/冰箱设置.vi"/>
+		<Item Name="风扇设置.vi" Type="VI" URL="../设置/风扇设置.vi"/>
 		<Item Name="采配水参数设置.vi" Type="VI" URL="../设置/采配水参数设置.vi"/>
 	</Item>
 	<Item Name="流程" Type="Folder">
 		<Item Name="采水流程.vi" Type="VI" URL="../流程/采水流程.vi"/>
+		<Item Name="冰箱运行流程.vi" Type="VI" URL="../流程/冰箱运行流程.vi"/>
+		<Item Name="排气扇运行流程.vi" Type="VI" URL="../流程/排气扇运行流程.vi"/>
+		<Item Name="报警流程.vi" Type="VI" URL="../流程/报警流程.vi"/>
 	</Item>
 	<Item Name="全局变量" Type="Folder">
 		<Item Name="通讯全局变量断电保存.vi" Type="VI" URL="../通讯/通讯全局变量断电保存.vi"/>
 		<Item Name="通讯全局变量.vi" Type="VI" URL="../通讯/通讯全局变量.vi"/>
+	</Item>
+	<Item Name="SQL" Type="Folder">
+		<Item Name="data insert core.vi" Type="VI" URL="../SQL/data insert core.vi"/>
+		<Item Name="data insert.vi" Type="VI" URL="../SQL/data insert.vi"/>
 	</Item>
 	<Item Name="参数输出转换.vi" Type="VI" URL="../subvi/参数输出转换.vi"/>
 </Library>
