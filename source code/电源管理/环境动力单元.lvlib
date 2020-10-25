@@ -35,6 +35,9 @@
 			<Item Name="获取MPPT状态.vi" Type="VI" URL="../MPPT/获取MPPT状态.vi"/>
 			<Item Name="获取充放电量信息.vi" Type="VI" URL="../MPPT/获取充放电量信息.vi"/>
 		</Item>
+		<Item Name="采配水模拟器" Type="Folder">
+			<Item Name="采配水模拟器.vi" Type="VI" URL="../通讯/采配水模拟器/采配水模拟器.vi"/>
+		</Item>
 		<Item Name="open Serial MB.vi" Type="VI" URL="../通讯/open Serial MB.vi"/>
 		<Item Name="open TCP MB.vi" Type="VI" URL="../通讯/open TCP MB.vi"/>
 		<Item Name="close MB.vi" Type="VI" URL="../通讯/close MB.vi"/>

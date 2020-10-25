@@ -11,9 +11,15 @@
 	<Item Name="控件" Type="Folder">
 		<Item Name="禁用控件.ctl" Type="VI" URL="../控件/禁用控件.ctl"/>
 		<Item Name="控件外观.ctl" Type="VI" URL="../控件/控件外观.ctl"/>
+		<Item Name="模块启用.ctl" Type="VI" URL="../控件/模块启用.ctl"/>
 	</Item>
 	<Item Name="初始化 1.vi" Type="Ability VI" URL="../初始化 1.vi">
 		<Property Name="NI.XItem.Name" Type="Str">Init</Property>
+	</Item>
+	<Item Name="模块启用" Type="Property Folder">
+		<Property Name="NI.LibItem.Prop.Identifier" Type="Str">氨氮模块启用</Property>
+		<Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">模块启用</Property>
+		<Item Name="模块启用.vi" Type="Property VI" URL="../属性/模块启用.vi"/>
 	</Item>
 	<Item Name="数据 1.ctl" Type="Ability VI" URL="../数据 1.ctl">
 		<Property Name="NI.XItem.Name" Type="Str">Data</Property>

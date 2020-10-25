@@ -101,6 +101,7 @@
 			<Item Name="查询启动项.vi" Type="VI" URL="../系统/查询启动项.vi"/>
 			<Item Name="首页显示设置.vi" Type="VI" URL="../系统/首页显示设置.vi"/>
 			<Item Name="站点信息设置.vi" Type="VI" URL="../系统/站点信息设置.vi"/>
+			<Item Name="模块启用设置.vi" Type="VI" URL="../系统/模块启用设置.vi"/>
 		</Item>
 		<Item Name="短信服务" Type="Folder">
 			<Item Name="core" Type="Folder">
@@ -124,6 +125,9 @@
 			</Item>
 			<Item Name="短信服务.lvproj" Type="Document" URL="../API/短信服务/短信服务.lvproj"/>
 			<Item Name="设置UI.vi" Type="VI" URL="../API/短信服务/设置UI.vi"/>
+		</Item>
+		<Item Name="HAL" Type="Folder">
+			<Item Name="HAL Process.vi" Type="VI" URL="../API/HAL/HAL Process.vi"/>
 		</Item>
 		<Item Name="database.lvlib" Type="Library" URL="../API/数据库/database.lvlib"/>
 		<Item Name="环境动力单元.lvlib" Type="Library" URL="../电源管理/环境动力单元.lvlib"/>
@@ -646,6 +650,13 @@
 			<Item Name="version.dll" Type="Document" URL="version.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="AutoHide Windows Taskbar.vi" Type="VI" URL="../Subvi/AutoHide Windows Taskbar.vi"/>
+			<Item Name="shell32.dll" Type="Document" URL="shell32.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="质控单元V4.lvlib" Type="Library" URL="../API/质控单元V4/质控单元V4.lvlib"/>
+			<Item Name="ZK定时设置.xctl" Type="XControl" URL="../API/质控单元V4/control/定时周期/ZK定时设置.xctl"/>
+			<Item Name="ZK HAL.vi" Type="VI" URL="../API/质控单元V4/HAL/ZK HAL.vi"/>
 		</Item>
 		<Item Name="程序生成规范" Type="Build">
 			<Item Name="浮船水质自动监测系统" Type="EXE">
@@ -663,7 +674,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/LabVIEW Project/builds/NI_AB_PROJECTNAME/浮船水质自动监测系统</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D2FBB827-1878-4DE1-A43E-88C2716D5DCE}</Property>
-				<Property Name="Bld_version.build" Type="Int">18</Property>
+				<Property Name="Bld_version.build" Type="Int">24</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">浮船水质自动监测系统.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/LabVIEW Project/builds/NI_AB_PROJECTNAME/浮船水质自动监测系统/浮船水质自动监测系统.exe</Property>
@@ -679,7 +690,7 @@
 				<Property Name="DestinationCount" Type="Int">3</Property>
 				<Property Name="Exe_cmdLineArgs" Type="Bool">true</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/我的电脑/data/fb.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{28B74B5F-82B1-4E0D-BE44-D7117A202ECF}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{BCE63AD6-1D61-48AA-AC08-56D3180BFA9E}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/我的电脑/UI/VIS/启动.vi</Property>
@@ -734,7 +745,6 @@
 				<Property Name="Source[9].itemID" Type="Ref">/我的电脑/data/MSOffice_RGT_Template.xlt</Property>
 				<Property Name="Source[9].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="SourceCount" Type="Int">14</Property>
-				<Property Name="TgtF_enableDebugging" Type="Bool">true</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">浮船水质自动监测系统</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">版权 2020</Property>
 				<Property Name="TgtF_productName" Type="Str">浮船水质自动监测系统</Property>
