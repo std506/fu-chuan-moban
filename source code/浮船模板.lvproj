@@ -136,7 +136,6 @@
 		<Item Name="环境动力单元.lvlib" Type="Library" URL="../电源管理/环境动力单元.lvlib"/>
 		<Item Name="斯坦道多参数.lvlib" Type="Library" URL="../API/斯坦道仪器多参数/斯坦道多参数.lvlib"/>
 		<Item Name="其他.lvlib" Type="Library" URL="../API/其他/其他/其他.lvlib"/>
-		<Item Name="斯坦道总磷总氮.lvlib" Type="Library" URL="../API/斯坦道仪器总磷总氮/斯坦道总磷总氮.lvlib"/>
 		<Item Name="wxpusher.lvlib" Type="Library" URL="../API/WxMessage/wxpusher.lvlib"/>
 		<Item Name="斯坦道氨氮.lvlib" Type="Library" URL="../API/斯坦道仪器氨氮/斯坦道氨氮.lvlib"/>
 		<Item Name="AIRMAR WeatherCaster.lvlib" Type="Library" URL="../API/AIRMAR WeatherCaster/AIRMAR WeatherCaster.lvlib"/>
@@ -356,7 +355,6 @@
 				<Item Name="Destroy A Rendezvous.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/Destroy A Rendezvous.vi"/>
 				<Item Name="Destroy Rendezvous.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/Destroy Rendezvous.vi"/>
 				<Item Name="LVPositionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPositionTypeDef.ctl"/>
-				<Item Name="LVStringsAndValuesArrayTypeDef_U16.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVStringsAndValuesArrayTypeDef_U16.ctl"/>
 				<Item Name="VISA Configure Serial Port" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port"/>
 				<Item Name="VISA Configure Serial Port (Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Instr).vi"/>
 				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
@@ -412,6 +410,25 @@
 				<Item Name="Add File to Zip.vi" Type="VI" URL="/&lt;vilib&gt;/zip/Add File to Zip.vi"/>
 				<Item Name="Relative Path To Platform Independent String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Relative Path To Platform Independent String.vi"/>
 				<Item Name="Close Zip File.vi" Type="VI" URL="/&lt;vilib&gt;/zip/Close Zip File.vi"/>
+				<Item Name="Get Type of Variant.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/GetType.llb/Get Type of Variant.vi"/>
+				<Item Name="Type Enum.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/GetType.llb/Type Enum.ctl"/>
+				<Item Name="VariantType to Type Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/GetType.llb/VariantType to Type Code.vi"/>
+				<Item Name="TDMSFileViewerLocalizedText.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tdmsutil.llb/TDMSFileViewerLocalizedText.vi"/>
+				<Item Name="Write to XML File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File.vi"/>
+				<Item Name="Write to XML File(string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(string).vi"/>
+				<Item Name="Open_Create_Replace File.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/Open_Create_Replace File.vi"/>
+				<Item Name="compatCalcOffset.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatCalcOffset.vi"/>
+				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
+				<Item Name="Read From XML File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Read From XML File.vi"/>
+				<Item Name="Read From XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Read From XML File(array).vi"/>
+				<Item Name="ParseXMLFragments.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/ParseXMLFragments.vi"/>
+				<Item Name="FindFirstTag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindFirstTag.vi"/>
+				<Item Name="FindEmptyElement.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindEmptyElement.vi"/>
+				<Item Name="FindElement.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindElement.vi"/>
+				<Item Name="FindMatchingCloseTag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindMatchingCloseTag.vi"/>
+				<Item Name="FindCloseTagByName.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindCloseTagByName.vi"/>
+				<Item Name="FindElementStartByName.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/FindElementStartByName.vi"/>
+				<Item Name="Read From XML File(string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Read From XML File(string).vi"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Type Descriptor Enumeration__ogtk.ctl" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Type Descriptor Enumeration__ogtk.ctl"/>
@@ -633,7 +650,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="周期设置.xctl" Type="XControl" URL="../API/共用控件/周期设置/周期设置.xctl"/>
-			<Item Name="曲线模型.xctl" Type="XControl" URL="../API/共用控件/曲线模型/曲线模型.xctl"/>
 			<Item Name="调试控件V3.xctl" Type="XControl" URL="../API/共用控件/调试控件V3/调试控件V3.xctl"/>
 			<Item Name="多参数24H周期设置.xctl" Type="XControl" URL="../API/斯坦道仪器多参数/控件/24H周期设置/多参数24H周期设置.xctl"/>
 			<Item Name="定时设置.xctl" Type="XControl" URL="../API/共用控件/定时周期/定时设置.xctl"/>
@@ -645,8 +661,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Create balloon 队列.vi" Type="VI" URL="../Subvi/Create balloon 队列.vi"/>
-			<Item Name="多状态显示框.ctl" Type="VI" URL="../API/斯坦道仪器多参数/control/多状态显示框.ctl"/>
-			<Item Name="多参数状态显示.xctl" Type="XControl" URL="../API/斯坦道仪器多参数/control/状态显示/多参数状态显示.xctl"/>
 			<Item Name="CODMn24H周期设置.xctl" Type="XControl" URL="../API/CODMn/Control/24H周期设置/CODMn24H周期设置.xctl"/>
 			<Item Name="斯坦道总磷.lvlib" Type="Library" URL="../API/斯坦道仪器总磷/斯坦道总磷.lvlib"/>
 			<Item Name="斯坦道总氮.lvlib" Type="Library" URL="../API/斯坦道仪器总氮/斯坦道总氮.lvlib"/>
@@ -660,6 +674,8 @@
 			<Item Name="质控单元V4.lvlib" Type="Library" URL="../API/质控单元V4/质控单元V4.lvlib"/>
 			<Item Name="ZK定时设置.xctl" Type="XControl" URL="../API/质控单元V4/control/定时周期/ZK定时设置.xctl"/>
 			<Item Name="ZK HAL.vi" Type="VI" URL="../API/质控单元V4/HAL/ZK HAL.vi"/>
+			<Item Name="多参数横条运行状态.xctl" Type="XControl" URL="../API/斯坦道仪器多参数/控件/多参数横条运行状态/多参数横条运行状态.xctl"/>
+			<Item Name="斯坦道CODcr.lvlib" Type="Library" URL="../API/斯坦道仪器CODCr/斯坦道CODcr.lvlib"/>
 		</Item>
 		<Item Name="程序生成规范" Type="Build">
 			<Item Name="浮船水质自动监测系统" Type="EXE">
@@ -677,7 +693,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/LabVIEW Project/builds/NI_AB_PROJECTNAME/浮船水质自动监测系统</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D2FBB827-1878-4DE1-A43E-88C2716D5DCE}</Property>
-				<Property Name="Bld_version.build" Type="Int">29</Property>
+				<Property Name="Bld_version.build" Type="Int">34</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">浮船水质自动监测系统.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/LabVIEW Project/builds/NI_AB_PROJECTNAME/浮船水质自动监测系统/浮船水质自动监测系统.exe</Property>
