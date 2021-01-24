@@ -647,7 +647,7 @@
 			<Item Name="质控单元V4.lvlib" Type="Library" URL="../API/质控单元V4/质控单元V4.lvlib"/>
 			<Item Name="ZK定时设置.xctl" Type="XControl" URL="../API/质控单元V4/control/定时周期/ZK定时设置.xctl"/>
 			<Item Name="ZK HAL.vi" Type="VI" URL="../API/质控单元V4/HAL/ZK HAL.vi"/>
-			<Item Name="斯坦道CODCr.lvlib" Type="Library" URL="../API/斯坦道仪器CODCr/斯坦道CODcr.lvlib"/>
+			<Item Name="斯坦道CODcr.lvlib" Type="Library" URL="../API/斯坦道仪器CODCr/斯坦道CODcr.lvlib"/>
 			<Item Name="多参数横条运行状态.xctl" Type="XControl" URL="../API/斯坦道仪器原位多参数/控件/多参数横条运行状态/多参数横条运行状态.xctl"/>
 			<Item Name="多参数24H周期设置.xctl" Type="XControl" URL="../API/斯坦道仪器原位多参数/控件/24H周期设置/多参数24H周期设置.xctl"/>
 			<Item Name="多状态显示框.ctl" Type="VI" URL="../API/斯坦道仪器多参数/control/多状态显示框.ctl"/>
@@ -670,7 +670,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/LabVIEW Project/builds/NI_AB_PROJECTNAME/浮船水质自动监测系统</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D2FBB827-1878-4DE1-A43E-88C2716D5DCE}</Property>
-				<Property Name="Bld_version.build" Type="Int">51</Property>
+				<Property Name="Bld_version.build" Type="Int">52</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">浮船水质自动监测系统.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/LabVIEW Project/builds/NI_AB_PROJECTNAME/浮船水质自动监测系统/浮船水质自动监测系统.exe</Property>
