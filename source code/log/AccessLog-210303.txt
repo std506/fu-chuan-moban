@@ -1,0 +1,300 @@
+【21/03/03 17:04:00.292】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:00.753】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:01.469】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:02.469】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:03.468】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:04.467】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:05.541】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:06.528】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:07.468】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:08.713】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:09.469】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:10.472】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:11.472】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:12.555】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:13.474】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:14.471】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:15.472】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:16.469】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:17.472】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:18.480】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:19.473】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:20.475】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:21.479】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:22.475】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:23.529】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:24.476】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:25.478】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:26.472】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:27.471】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:28.471】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:29.473】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:30.474】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:31.471】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:32.649】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:33.472】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:34.469】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:35.469】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:36.473】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:37.470】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:38.469】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:39.469】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:40.470】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:41.470】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:42.470】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:43.469】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:44.469】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:45.471】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:46.471】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:47.567】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:48.472】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:49.557】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:50.776】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:51.471】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:52.539】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:53.476】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:54.472】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:55.467】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:56.525】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:57.481】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
+【21/03/03 17:04:58.475】:错误-2147217900发生于 NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi
+
+可能原因：
+ADO Error: 0x80040E14
+NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->斯坦道CODMn.lvlib:数据写入database.vi->斯坦道CODMn.lvlib:待机状态数据存储写入和切换量程(子VI).vi->斯坦道CODMn.lvlib:COD主界面（列队使用）.vi中的Exception occured in Microsoft JET Database Engine: INSERT INTO 语句包含下列未知的字段名： 'ORPA'。确定键入的名称是正确的， 然后重试。
