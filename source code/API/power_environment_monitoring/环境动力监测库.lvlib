@@ -30,6 +30,9 @@
 		<Item Name="balloon入队列.vi" Type="VI" URL="../Subvi/balloon入队列.vi"/>
 		<Item Name="IP键盘.vi" Type="VI" URL="../Subvi/IP键盘.vi"/>
 		<Item Name="字符键盘.vi" Type="VI" URL="../Subvi/字符键盘.vi"/>
+		<Item Name="模拟量设置窗口.vi" Type="VI" URL="../Subvi/模拟量设置窗口.vi"/>
+		<Item Name="线性转换.vi" Type="VI" URL="../Subvi/线性转换.vi"/>
+		<Item Name="原始值线性转换.vi" Type="VI" URL="../Subvi/原始值线性转换.vi"/>
 	</Item>
 	<Item Name="IO连接" Type="Folder">
 		<Item Name="红外入侵监测" Type="Folder">
@@ -40,11 +43,13 @@
 		</Item>
 		<Item Name="门禁开关监测" Type="Folder">
 			<Item Name="门禁开关监测界面.vi" Type="VI" URL="../IO连接/门禁开关监测/门禁开关监测界面.vi"/>
+			<Item Name="门禁开关监测2界面.vi" Type="VI" URL="../IO连接/门禁开关监测/门禁开关监测2界面.vi"/>
 		</Item>
 		<Item Name="温度湿度" Type="Folder">
 			<Item Name="温湿度告警字符串组合 (子VI).vi" Type="VI" URL="../IO连接/温度湿度/温湿度告警字符串组合 (子VI).vi"/>
 			<Item Name="温度湿度监测界面.vi" Type="VI" URL="../IO连接/温度湿度/温度湿度监测界面.vi"/>
 			<Item Name="高温告警对话框.vi" Type="VI" URL="../IO连接/温度湿度/高温告警对话框.vi"/>
+			<Item Name="温湿度参数配置.vi" Type="VI" URL="../IO连接/温度湿度/温湿度参数配置.vi"/>
 		</Item>
 		<Item Name="烟雾监测" Type="Folder">
 			<Item Name="烟雾监测界面.vi" Type="VI" URL="../IO连接/烟雾监测/烟雾监测界面.vi"/>
@@ -59,9 +64,11 @@
 			<Item Name="视频监测界面.vi" Type="VI" URL="../IO连接/视频监测/视频监测界面.vi"/>
 		</Item>
 		<Item Name="冰箱监测" Type="Folder">
+			<Item Name="冰箱参数配置.vi" Type="VI" URL="../IO连接/冰箱监测/冰箱参数配置.vi"/>
 			<Item Name="冰箱监测界面.vi" Type="VI" URL="../IO连接/冰箱监测/冰箱监测界面.vi"/>
 		</Item>
 		<Item Name="排气扇监测" Type="Folder">
+			<Item Name="排气扇参数配置.vi" Type="VI" URL="../IO连接/排气扇监测/排气扇参数配置.vi"/>
 			<Item Name="排气扇监测界面.vi" Type="VI" URL="../IO连接/排气扇监测/排气扇监测界面.vi"/>
 		</Item>
 	</Item>
@@ -84,15 +91,22 @@
 				<Item Name="获取阵列信息.vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/获取阵列信息.vi"/>
 				<Item Name="获取直流负载信息.vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/获取直流负载信息.vi"/>
 			</Item>
+			<Item Name="太阳能控制器参数配置.vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/太阳能控制器参数配置.vi"/>
 			<Item Name="报警设置.vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/报警设置.vi"/>
 			<Item Name="太阳能控制器全局.vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/太阳能控制器全局.vi"/>
 			<Item Name="太阳能控制器断电保存全局.vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/太阳能控制器断电保存全局.vi"/>
 			<Item Name="open Serial MB.vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/open Serial MB.vi"/>
 			<Item Name="open TCP MB.vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/open TCP MB.vi"/>
 			<Item Name="close MB.vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/close MB.vi"/>
-			<Item Name="线性转换.vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/线性转换.vi"/>
-			<Item Name="太阳能控制器界面.vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/太阳能控制器界面.vi"/>
 			<Item Name="蓄电池配置同步 (子VI).vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/蓄电池配置同步 (子VI).vi"/>
+			<Item Name="太阳能控制器MPPT12.vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/太阳能控制器MPPT12.vi"/>
+			<Item Name="太阳能控制器MPPT24.vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/太阳能控制器MPPT24.vi"/>
+		</Item>
+		<Item Name="AIRMAR WeatherCaster" Type="Folder">
+			<Item Name="AIRMAR WeatherCaster.lvlib" Type="Library" URL="../串口、TCP连接/AIRMAR WeatherCaster/AIRMAR WeatherCaster.lvlib"/>
+		</Item>
+		<Item Name="NMEA" Type="Folder">
+			<Item Name="NMEA.lvlib" Type="Library" URL="../串口、TCP连接/NMEA/NMEA.lvlib"/>
 		</Item>
 	</Item>
 	<Item Name="固定站电源管理" Type="Folder">
@@ -124,8 +138,10 @@
 	</Item>
 	<Item Name="动力环境监测系统.vi" Type="VI" URL="../动力环境监测系统.vi"/>
 	<Item Name="动力和环境监控系统首页.vi" Type="VI" URL="../动力和环境监控系统首页.vi"/>
+	<Item Name="动力和环境监控系统状态详情.vi" Type="VI" URL="../动力和环境监控系统状态详情.vi"/>
 	<Item Name="设备配置界面.vi" Type="VI" URL="../设备配置界面.vi"/>
 	<Item Name="IO参数设置.vi" Type="VI" URL="../IO参数设置.vi"/>
 	<Item Name="串口设备参数设置.vi" Type="VI" URL="../串口设备参数设置.vi"/>
 	<Item Name="开机添加默认配置文件.vi" Type="VI" URL="../Subvi/开机添加默认配置文件.vi"/>
+	<Item Name="联动声光报警(子VI).vi" Type="VI" URL="../IO连接/联动声光报警(子VI).vi"/>
 </Library>

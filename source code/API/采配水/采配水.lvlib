@@ -14,7 +14,6 @@
 		<Item Name="有符号24位转32位有符号数.vi" Type="VI" URL="../subvi/有符号24位转32位有符号数.vi"/>
 		<Item Name="操作日志.vi" Type="VI" URL="../subvi/操作日志.vi"/>
 		<Item Name="报警信息.vi" Type="VI" URL="../subvi/报警信息.vi"/>
-		<Item Name="模拟量配置.vi" Type="VI" URL="../subvi/模拟量配置.vi"/>
 		<Item Name="线性转换.vi" Type="VI" URL="../subvi/线性转换.vi"/>
 		<Item Name="数字键盘.vi" Type="VI" URL="../subvi/数字键盘.vi"/>
 		<Item Name="Add State to Queue.vi" Type="VI" URL="../subvi/Add State to Queue.vi"/>
