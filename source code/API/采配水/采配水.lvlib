@@ -61,5 +61,8 @@
 		<Item Name="data insert core.vi" Type="VI" URL="../SQL/data insert core.vi"/>
 		<Item Name="data insert.vi" Type="VI" URL="../SQL/data insert.vi"/>
 	</Item>
+	<Item Name="control" Type="Folder">
+		<Item Name="采配水流程.ctl" Type="VI" URL="../control/采配水流程.ctl"/>
+	</Item>
 	<Item Name="参数输出转换.vi" Type="VI" URL="../subvi/参数输出转换.vi"/>
 </Library>
