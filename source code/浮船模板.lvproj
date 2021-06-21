@@ -805,7 +805,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/LabVIEW Project/builds/NI_AB_PROJECTNAME/浮船水质自动监测系统</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D2FBB827-1878-4DE1-A43E-88C2716D5DCE}</Property>
-				<Property Name="Bld_version.build" Type="Int">116</Property>
+				<Property Name="Bld_version.build" Type="Int">122</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">浮船水质自动监测系统.exe</Property>
@@ -816,13 +816,9 @@
 				<Property Name="Destination[1].destName" Type="Str">支持目录</Property>
 				<Property Name="Destination[1].path" Type="Path">/C/LabVIEW Project/builds/NI_AB_PROJECTNAME/浮船水质自动监测系统/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
-				<Property Name="Destination[2].destName" Type="Str">updata</Property>
-				<Property Name="Destination[2].path" Type="Path">/C/LabVIEW Project/builds/NI_AB_PROJECTNAME/浮船水质自动监测系统/updata</Property>
-				<Property Name="Destination[2].path.type" Type="Str">&lt;none&gt;</Property>
-				<Property Name="DestinationCount" Type="Int">3</Property>
-				<Property Name="Exe_cmdLineArgs" Type="Bool">true</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/我的电脑/data/fb.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{A299E556-5DA0-4DE9-AED2-FD9DD3E4C36F}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{29D1A046-40A6-416B-BCDA-C35C1ECDA697}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/我的电脑/UI/VIS/启动.vi</Property>
@@ -864,15 +860,101 @@
 				<Property Name="Source[17].itemID" Type="Ref">/我的电脑/环境动力监测库.lvlib/设备配置界面.vi</Property>
 				<Property Name="Source[17].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[17].type" Type="Str">VI</Property>
+				<Property Name="Source[18].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[18].itemID" Type="Ref">/我的电脑/wxpusher.lvlib</Property>
+				<Property Name="Source[18].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[18].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[18].type" Type="Str">Library</Property>
+				<Property Name="Source[19].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[19].itemID" Type="Ref">/我的电脑/斯坦道氨氮.lvlib</Property>
+				<Property Name="Source[19].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[19].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[19].type" Type="Str">Library</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[2].itemID" Type="Ref">/我的电脑/database.lvlib</Property>
 				<Property Name="Source[2].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[2].type" Type="Str">Library</Property>
+				<Property Name="Source[20].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[20].itemID" Type="Ref">/我的电脑/AIRMAR WeatherCaster.lvlib</Property>
+				<Property Name="Source[20].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[20].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[20].type" Type="Str">Library</Property>
+				<Property Name="Source[21].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[21].itemID" Type="Ref">/我的电脑/update.lvlib</Property>
+				<Property Name="Source[21].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[21].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[21].type" Type="Str">Library</Property>
+				<Property Name="Source[22].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[22].itemID" Type="Ref">/我的电脑/斯坦道CODMn.lvlib</Property>
+				<Property Name="Source[22].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[22].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[22].type" Type="Str">Library</Property>
+				<Property Name="Source[23].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[23].itemID" Type="Ref">/我的电脑/斯坦道多参数.lvlib</Property>
+				<Property Name="Source[23].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[23].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[23].type" Type="Str">Library</Property>
+				<Property Name="Source[24].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[24].itemID" Type="Ref">/我的电脑/采配水.lvlib</Property>
+				<Property Name="Source[24].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[24].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[24].type" Type="Str">Library</Property>
+				<Property Name="Source[25].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[25].itemID" Type="Ref">/我的电脑/环境动力监测库.lvlib</Property>
+				<Property Name="Source[25].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[25].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[25].type" Type="Str">Library</Property>
+				<Property Name="Source[26].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[26].itemID" Type="Ref">/我的电脑/质控单元V4.lvlib</Property>
+				<Property Name="Source[26].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[26].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[26].type" Type="Str">Library</Property>
+				<Property Name="Source[27].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[27].itemID" Type="Ref">/我的电脑/模块运行周期接口.vi</Property>
+				<Property Name="Source[27].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[27].type" Type="Str">VI</Property>
+				<Property Name="Source[28].Container.applyInclusion" Type="Bool">true</Property>
+				<Property Name="Source[28].Container.depDestIndex" Type="Int">0</Property>
+				<Property Name="Source[28].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[28].itemID" Type="Ref">/我的电脑/短信服务</Property>
+				<Property Name="Source[28].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[28].type" Type="Str">Container</Property>
+				<Property Name="Source[29].Container.applyInclusion" Type="Bool">true</Property>
+				<Property Name="Source[29].Container.depDestIndex" Type="Int">0</Property>
+				<Property Name="Source[29].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[29].itemID" Type="Ref">/我的电脑/平台接口对接</Property>
+				<Property Name="Source[29].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[29].type" Type="Str">Container</Property>
 				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[3].itemID" Type="Ref">/我的电脑/其他.lvlib</Property>
 				<Property Name="Source[3].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[3].type" Type="Str">Library</Property>
+				<Property Name="Source[30].Container.applyInclusion" Type="Bool">true</Property>
+				<Property Name="Source[30].Container.depDestIndex" Type="Int">0</Property>
+				<Property Name="Source[30].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[30].itemID" Type="Ref">/我的电脑/HAL</Property>
+				<Property Name="Source[30].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[30].type" Type="Str">Container</Property>
+				<Property Name="Source[31].Container.applyInclusion" Type="Bool">true</Property>
+				<Property Name="Source[31].Container.depDestIndex" Type="Int">0</Property>
+				<Property Name="Source[31].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[31].itemID" Type="Ref">/我的电脑/任务处理</Property>
+				<Property Name="Source[31].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[31].type" Type="Str">Container</Property>
+				<Property Name="Source[32].Container.applyInclusion" Type="Bool">true</Property>
+				<Property Name="Source[32].Container.depDestIndex" Type="Int">0</Property>
+				<Property Name="Source[32].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[32].itemID" Type="Ref">/我的电脑/系统设置</Property>
+				<Property Name="Source[32].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[32].type" Type="Str">Container</Property>
+				<Property Name="Source[33].Container.applyInclusion" Type="Bool">true</Property>
+				<Property Name="Source[33].Container.depDestIndex" Type="Int">0</Property>
+				<Property Name="Source[33].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[33].itemID" Type="Ref">/我的电脑/Subvi</Property>
+				<Property Name="Source[33].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[33].type" Type="Str">Container</Property>
 				<Property Name="Source[4].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[4].itemID" Type="Ref">/我的电脑/UI/VIS/主画面.vi</Property>
 				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
@@ -895,7 +977,7 @@
 				<Property Name="Source[9].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[9].itemID" Type="Ref">/我的电脑/data/V3.0 流程 总磷总氮COD（一体站液位）、氨氮 含质控 20191010.xml</Property>
 				<Property Name="Source[9].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="SourceCount" Type="Int">18</Property>
+				<Property Name="SourceCount" Type="Int">34</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">浮船水质自动监测系统</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">版权 2020</Property>
 				<Property Name="TgtF_productName" Type="Str">浮船水质自动监测系统</Property>
