@@ -93,6 +93,7 @@
 			<Item Name="首页显示设置.vi" Type="VI" URL="../系统/首页显示设置.vi"/>
 			<Item Name="站点信息设置.vi" Type="VI" URL="../系统/站点信息设置.vi"/>
 			<Item Name="模块启用设置.vi" Type="VI" URL="../系统/模块启用设置.vi"/>
+			<Item Name="系统交互.vi" Type="VI" URL="../系统/系统交互.vi"/>
 		</Item>
 		<Item Name="短信服务" Type="Folder">
 			<Item Name="core" Type="Folder">
@@ -117,9 +118,6 @@
 			<Item Name="短信服务.lvproj" Type="Document" URL="../API/短信服务/短信服务.lvproj"/>
 			<Item Name="设置UI.vi" Type="VI" URL="../API/短信服务/设置UI.vi"/>
 		</Item>
-		<Item Name="平台接口对接" Type="Folder">
-			<Item Name="平台接口对接.vi" Type="VI" URL="../平台接口对接/平台接口对接.vi"/>
-		</Item>
 		<Item Name="HAL" Type="Folder">
 			<Item Name="HAL Process.vi" Type="VI" URL="../API/HAL/HAL Process.vi"/>
 		</Item>
@@ -140,6 +138,7 @@
 		<Item Name="环境动力监测库.lvlib" Type="Library" URL="../API/power_environment_monitoring/环境动力监测库.lvlib"/>
 		<Item Name="质控单元V4.lvlib" Type="Library" URL="../API/质控单元V4/质控单元V4.lvlib"/>
 		<Item Name="模块运行周期接口.vi" Type="VI" URL="../API/Interface/模块运行周期接口.vi"/>
+		<Item Name="MB SLAVE.lvlib" Type="Library" URL="../Modbus Slave/MB SLAVE.lvlib"/>
 		<Item Name="依赖关系" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
@@ -788,6 +787,17 @@
 			<Item Name="save config.vi" Type="VI" URL="../API/database/config/save config.vi"/>
 			<Item Name="load config.vi" Type="VI" URL="../API/database/config/load config.vi"/>
 			<Item Name="环境参数数据插入.vi" Type="VI" URL="../API/database/Interface/环境参数数据插入.vi"/>
+			<Item Name="CODMn交互.ctl" Type="VI" URL="../API/共用控件/内部交互/CODMn交互.ctl"/>
+			<Item Name="氨氮交互.ctl" Type="VI" URL="../API/共用控件/内部交互/氨氮交互.ctl"/>
+			<Item Name="关键参数.ctl" Type="VI" URL="../API/共用控件/内部交互/关键参数.ctl"/>
+			<Item Name="总磷交互.ctl" Type="VI" URL="../API/共用控件/内部交互/总磷交互.ctl"/>
+			<Item Name="总氮交互.ctl" Type="VI" URL="../API/共用控件/内部交互/总氮交互.ctl"/>
+			<Item Name="CODCr交互.ctl" Type="VI" URL="../API/共用控件/内部交互/CODCr交互.ctl"/>
+			<Item Name="超标留样交互.ctl" Type="VI" URL="../API/共用控件/内部交互/超标留样交互.ctl"/>
+			<Item Name="系统交互.ctl" Type="VI" URL="../API/共用控件/内部交互/系统交互.ctl"/>
+			<Item Name="多参数交互.ctl" Type="VI" URL="../API/共用控件/内部交互/多参数交互.ctl"/>
+			<Item Name="测试子流程.ctl" Type="VI" URL="../API/共用控件/内部交互/测试子流程.ctl"/>
+			<Item Name="质控slave id.ctl" Type="VI" URL="../API/共用控件/内部交互/质控slave id.ctl"/>
 		</Item>
 		<Item Name="程序生成规范" Type="Build">
 			<Item Name="浮船水质自动监测系统" Type="EXE">
@@ -805,10 +815,10 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/LabVIEW Project/builds/NI_AB_PROJECTNAME/浮船水质自动监测系统</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D2FBB827-1878-4DE1-A43E-88C2716D5DCE}</Property>
-				<Property Name="Bld_version.build" Type="Int">127</Property>
+				<Property Name="Bld_version.build" Type="Int">129</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
-				<Property Name="Bld_version.patch" Type="Int">1</Property>
+				<Property Name="Bld_version.patch" Type="Int">2</Property>
 				<Property Name="Destination[0].destName" Type="Str">浮船水质自动监测系统.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/LabVIEW Project/builds/NI_AB_PROJECTNAME/浮船水质自动监测系统/浮船水质自动监测系统.exe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
@@ -819,7 +829,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/我的电脑/data/fb.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{FCBFBA03-ABAF-45AE-9047-7BA620D4A827}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{FC2A57A5-C573-44B6-95B3-A433AD65E51D}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/我的电脑/UI/VIS/启动.vi</Property>
@@ -924,7 +934,7 @@
 				<Property Name="Source[29].Container.applyInclusion" Type="Bool">true</Property>
 				<Property Name="Source[29].Container.depDestIndex" Type="Int">0</Property>
 				<Property Name="Source[29].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[29].itemID" Type="Ref">/我的电脑/平台接口对接</Property>
+				<Property Name="Source[29].itemID" Type="Ref">/我的电脑/HAL</Property>
 				<Property Name="Source[29].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[29].type" Type="Str">Container</Property>
 				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
@@ -935,27 +945,21 @@
 				<Property Name="Source[30].Container.applyInclusion" Type="Bool">true</Property>
 				<Property Name="Source[30].Container.depDestIndex" Type="Int">0</Property>
 				<Property Name="Source[30].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[30].itemID" Type="Ref">/我的电脑/HAL</Property>
+				<Property Name="Source[30].itemID" Type="Ref">/我的电脑/任务处理</Property>
 				<Property Name="Source[30].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[30].type" Type="Str">Container</Property>
 				<Property Name="Source[31].Container.applyInclusion" Type="Bool">true</Property>
 				<Property Name="Source[31].Container.depDestIndex" Type="Int">0</Property>
 				<Property Name="Source[31].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[31].itemID" Type="Ref">/我的电脑/任务处理</Property>
+				<Property Name="Source[31].itemID" Type="Ref">/我的电脑/系统设置</Property>
 				<Property Name="Source[31].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[31].type" Type="Str">Container</Property>
 				<Property Name="Source[32].Container.applyInclusion" Type="Bool">true</Property>
 				<Property Name="Source[32].Container.depDestIndex" Type="Int">0</Property>
 				<Property Name="Source[32].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[32].itemID" Type="Ref">/我的电脑/系统设置</Property>
+				<Property Name="Source[32].itemID" Type="Ref">/我的电脑/Subvi</Property>
 				<Property Name="Source[32].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[32].type" Type="Str">Container</Property>
-				<Property Name="Source[33].Container.applyInclusion" Type="Bool">true</Property>
-				<Property Name="Source[33].Container.depDestIndex" Type="Int">0</Property>
-				<Property Name="Source[33].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[33].itemID" Type="Ref">/我的电脑/Subvi</Property>
-				<Property Name="Source[33].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="Source[33].type" Type="Str">Container</Property>
 				<Property Name="Source[4].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[4].itemID" Type="Ref">/我的电脑/UI/VIS/主画面.vi</Property>
 				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
@@ -978,7 +982,7 @@
 				<Property Name="Source[9].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[9].itemID" Type="Ref">/我的电脑/data/V3.0 流程 总磷总氮COD（一体站液位）、氨氮 含质控 20191010.xml</Property>
 				<Property Name="Source[9].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="SourceCount" Type="Int">34</Property>
+				<Property Name="SourceCount" Type="Int">33</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">浮船水质自动监测系统</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">版权 2020</Property>
 				<Property Name="TgtF_productName" Type="Str">浮船水质自动监测系统</Property>
