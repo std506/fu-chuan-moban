@@ -857,7 +857,6 @@
 			<Item Name="多参数交互.ctl" Type="VI" URL="../API/共用控件/内部交互/多参数交互.ctl"/>
 			<Item Name="测试子流程.ctl" Type="VI" URL="../API/共用控件/内部交互/测试子流程.ctl"/>
 			<Item Name="质控slave id.ctl" Type="VI" URL="../API/共用控件/内部交互/质控slave id.ctl"/>
-			<Item Name="data insert core.vi" Type="VI" URL="../API/AIRMAR WeatherCaster/SQL/data insert core.vi"/>
 			<Item Name="NMEA气象仪数据插入.vi" Type="VI" URL="../API/database/Interface/NMEA气象仪数据插入.vi"/>
 			<Item Name="NMAE气象仪字段定义.ctl" Type="VI" URL="../API/database/control/NMAE气象仪字段定义.ctl"/>
 			<Item Name="WXA100气象仪数据插入.vi" Type="VI" URL="../API/database/Interface/WXA100气象仪数据插入.vi"/>
@@ -870,6 +869,10 @@
 			<Item Name="NAQ_DO.lvlib" Type="Library" URL="../API/Section_monitoring_system/function/NAQ_DO/NAQ_DO.lvlib"/>
 			<Item Name="bbe.lvlib" Type="Library" URL="../API/Section_monitoring_system/function/bbe/bbe.lvlib"/>
 			<Item Name="checkbox.ctl" Type="VI" URL="../API/Section_monitoring_system/function/control/checkbox.ctl"/>
+			<Item Name="剖面数据_EXO2.ctl" Type="VI" URL="../API/database/control/剖面数据_EXO2.ctl"/>
+			<Item Name="剖面数据_bbe_NAQDO.ctl" Type="VI" URL="../API/database/control/剖面数据_bbe_NAQDO.ctl"/>
+			<Item Name="剖面数据_exo2.vi" Type="VI" URL="../API/database/Interface/剖面数据_exo2.vi"/>
+			<Item Name="剖面数据_bbe_NAQDO.vi" Type="VI" URL="../API/database/Interface/剖面数据_bbe_NAQDO.vi"/>
 		</Item>
 		<Item Name="程序生成规范" Type="Build">
 			<Item Name="浮船水质自动监测系统" Type="EXE">
@@ -887,7 +890,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/LabVIEW Project/builds/NI_AB_PROJECTNAME/浮船水质自动监测系统</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D2FBB827-1878-4DE1-A43E-88C2716D5DCE}</Property>
-				<Property Name="Bld_version.build" Type="Int">139</Property>
+				<Property Name="Bld_version.build" Type="Int">145</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Bld_version.patch" Type="Int">2</Property>

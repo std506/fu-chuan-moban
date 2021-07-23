@@ -57,10 +57,7 @@
 		<Item Name="通讯全局变量断电保存.vi" Type="VI" URL="../通讯/通讯全局变量断电保存.vi"/>
 		<Item Name="通讯全局变量.vi" Type="VI" URL="../通讯/通讯全局变量.vi"/>
 	</Item>
-	<Item Name="SQL" Type="Folder">
-		<Item Name="data insert core.vi" Type="VI" URL="../SQL/data insert core.vi"/>
-		<Item Name="data insert.vi" Type="VI" URL="../SQL/data insert.vi"/>
-	</Item>
+	<Item Name="SQL" Type="Folder"/>
 	<Item Name="control" Type="Folder">
 		<Item Name="采配水流程.ctl" Type="VI" URL="../control/采配水流程.ctl"/>
 	</Item>
