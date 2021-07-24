@@ -200,6 +200,10 @@
 			<Item Name="剖面数据_bbe_NAQDO.vi" Type="VI" URL="../../database/Interface/剖面数据_bbe_NAQDO.vi"/>
 			<Item Name="剖面数据_EXO2.ctl" Type="VI" URL="../../database/control/剖面数据_EXO2.ctl"/>
 			<Item Name="剖面数据_exo2.vi" Type="VI" URL="../../database/Interface/剖面数据_exo2.vi"/>
+			<Item Name="操作日志字段定义.ctl" Type="VI" URL="../../database/control/操作日志字段定义.ctl"/>
+			<Item Name="操作日志数据插入.vi" Type="VI" URL="../../database/Interface/操作日志数据插入.vi"/>
+			<Item Name="报警信息字段定义.ctl" Type="VI" URL="../../database/control/报警信息字段定义.ctl"/>
+			<Item Name="报警信息数据插入.vi" Type="VI" URL="../../database/Interface/报警信息数据插入.vi"/>
 		</Item>
 		<Item Name="程序生成规范" Type="Build">
 			<Item Name="SectionSystem" Type="EXE">
