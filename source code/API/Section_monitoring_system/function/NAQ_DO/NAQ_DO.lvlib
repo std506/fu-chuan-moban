@@ -6,7 +6,12 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="NAQ_DO_COM.vi" Type="VI" URL="../NAQ_DO_COM.vi"/>
 	<Item Name="打开串口.vi" Type="VI" URL="../打开串口.vi"/>
+	<Item Name="大气压力盐度设置.vi" Type="VI" URL="../大气压力盐度设置.vi"/>
 	<Item Name="读取检测值.vi" Type="VI" URL="../读取检测值.vi"/>
 	<Item Name="关闭串口.vi" Type="VI" URL="../关闭串口.vi"/>
 	<Item Name="过程变量.vi" Type="VI" URL="../过程变量.vi"/>
+	<Item Name="获取溶解氧监测值.vi" Type="VI" URL="../获取溶解氧监测值.vi"/>
+	<Item Name="溶解氧校准.vi" Type="VI" URL="../溶解氧校准.vi"/>
+	<Item Name="温度校准.vi" Type="VI" URL="../温度校准.vi"/>
+	<Item Name="校准窗口.vi" Type="VI" URL="../校准窗口.vi"/>
 </Library>
