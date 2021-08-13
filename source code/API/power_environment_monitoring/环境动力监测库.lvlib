@@ -44,6 +44,7 @@
 		<Item Name="HexToWord.vi" Type="VI" URL="../HexToData/HexToWord.vi"/>
 	</Item>
 	<Item Name="Subvi" Type="Folder">
+		<Item Name="报警交互入队列.vi" Type="VI" URL="../Subvi/报警交互入队列.vi"/>
 		<Item Name="告警触发机制 (子VI).vi" Type="VI" URL="../Subvi/告警触发机制 (子VI).vi"/>
 		<Item Name="数字键盘.vi" Type="VI" URL="../Subvi/数字键盘.vi"/>
 		<Item Name="数字键盘密码显示.vi" Type="VI" URL="../Subvi/数字键盘密码显示.vi"/>
