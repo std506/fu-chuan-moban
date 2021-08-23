@@ -31,6 +31,10 @@
 	<Property Name="SaveStatePeriod" Type="UInt">0</Property>
 	<Property Name="Serialized ACL" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
+	<Item Name="interface" Type="Folder">
+		<Item Name="Alarm interface.vi" Type="VI" URL="../interface/Alarm interface.vi"/>
+		<Item Name="Read alarm XML.vi" Type="VI" URL="../interface/Read alarm XML.vi"/>
+	</Item>
 	<Item Name="DataToHex" Type="Folder">
 		<Item Name="DateToHex.vi" Type="VI" URL="../DataToHex/DateToHex.vi"/>
 		<Item Name="FloatToHex.vi" Type="VI" URL="../DataToHex/FloatToHex.vi"/>
@@ -44,7 +48,6 @@
 		<Item Name="HexToWord.vi" Type="VI" URL="../HexToData/HexToWord.vi"/>
 	</Item>
 	<Item Name="Subvi" Type="Folder">
-		<Item Name="报警交互入队列.vi" Type="VI" URL="../Subvi/报警交互入队列.vi"/>
 		<Item Name="告警触发机制 (子VI).vi" Type="VI" URL="../Subvi/告警触发机制 (子VI).vi"/>
 		<Item Name="数字键盘.vi" Type="VI" URL="../Subvi/数字键盘.vi"/>
 		<Item Name="数字键盘密码显示.vi" Type="VI" URL="../Subvi/数字键盘密码显示.vi"/>
