@@ -1,6 +1,6 @@
 <?xml version='1.0'  encoding='GB2312' standalone='yes' ?>
 <LVData xmlns="http://www.ni.com/LVData">
-<Version>16.0</Version>
+<Version>16.0f5</Version>
 <Cluster>
 <Name>配置信息</Name>
 <NumElts>4</NumElts>
@@ -9,7 +9,7 @@
 <Choice>不启用</Choice>
 <Choice>定点模式</Choice>
 <Choice>间隔模式</Choice>
-<Val>0</Val>
+<Val>1</Val>
 </EW>
 <U16>
 <Name>测量参数</Name>
@@ -86,7 +86,7 @@
 <Choice>加标回收</Choice>
 <Choice>空白校准</Choice>
 <Choice>标样校准</Choice>
-<Val>0</Val>
+<Val>1</Val>
 </EW>
 <EW>
 <Name>启动命令 6</Name>
