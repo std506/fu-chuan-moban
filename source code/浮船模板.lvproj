@@ -800,8 +800,6 @@
 			<Item Name="ZK HAL.vi" Type="VI" URL="../API/质控单元V4/HAL/ZK HAL.vi"/>
 			<Item Name="斯坦道CODcr.lvlib" Type="Library" URL="../API/斯坦道仪器CODCr/斯坦道CODcr.lvlib"/>
 			<Item Name="多参数横条运行状态.xctl" Type="XControl" URL="../API/斯坦道仪器原位多参数/控件/多参数横条运行状态/多参数横条运行状态.xctl"/>
-			<Item Name="多状态显示框.ctl" Type="VI" URL="../API/斯坦道仪器多参数/control/多状态显示框.ctl"/>
-			<Item Name="多参数状态显示.xctl" Type="XControl" URL="../API/斯坦道仪器多参数/control/状态显示/多参数状态显示.xctl"/>
 			<Item Name="version.dll" Type="Document" URL="version.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -870,6 +868,9 @@
 			<Item Name="剖面数据_exo2.vi" Type="VI" URL="../API/database/Interface/剖面数据_exo2.vi"/>
 			<Item Name="剖面数据_bbe_NAQDO.vi" Type="VI" URL="../API/database/Interface/剖面数据_bbe_NAQDO.vi"/>
 			<Item Name="电子罗盘.ctl" Type="VI" URL="../API/AIRMAR WeatherCaster/电子罗盘.ctl"/>
+			<Item Name="数值显示.ctl" Type="VI" URL="../UI/控件/数值显示.ctl"/>
+			<Item Name="多数值显示.ctl" Type="VI" URL="../UI/控件/多数值显示.ctl"/>
+			<Item Name="数值显示转换.vi" Type="VI" URL="../Subvi/数值显示转换.vi"/>
 		</Item>
 		<Item Name="程序生成规范" Type="Build">
 			<Item Name="浮船水质自动监测系统" Type="EXE">
@@ -887,7 +888,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/LabVIEW Project/builds/NI_AB_PROJECTNAME/浮船水质自动监测系统</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D2FBB827-1878-4DE1-A43E-88C2716D5DCE}</Property>
-				<Property Name="Bld_version.build" Type="Int">184</Property>
+				<Property Name="Bld_version.build" Type="Int">185</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Bld_version.patch" Type="Int">5</Property>

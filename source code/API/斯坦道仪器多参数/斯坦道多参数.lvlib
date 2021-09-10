@@ -67,8 +67,10 @@
 		<Item Name="检测值.ctl" Type="VI" URL="../控件/检测值.ctl"/>
 		<Item Name="选择.ctl" Type="VI" URL="../控件/选择.ctl"/>
 		<Item Name="通知队列类型.ctl" Type="VI" URL="../控件/通知队列类型.ctl"/>
+		<Item Name="多状态显示框.ctl" Type="VI" URL="../control/多状态显示框.ctl"/>
 		<Item Name="校准步骤.ctl" Type="VI" URL="../control/校准步骤.ctl"/>
 		<Item Name="切换按钮.ctl" Type="VI" URL="../控件/切换按钮.ctl"/>
+		<Item Name="显示控件.ctl" Type="VI" URL="../control/显示控件.ctl"/>
 	</Item>
 	<Item Name="属性" Type="Folder">
 		<Item Name="国弘" Type="Folder">
@@ -422,4 +424,5 @@
 	<Item Name="数据标识判定.vi" Type="VI" URL="../Subvi/数据标识判定.vi"/>
 	<Item Name="叶绿素a单位换算.vi" Type="VI" URL="../Subvi/叶绿素a单位换算.vi"/>
 	<Item Name="藻密度单位换算.vi" Type="VI" URL="../Subvi/藻密度单位换算.vi"/>
+	<Item Name="显示转换.vi" Type="VI" URL="../Subvi/显示转换.vi"/>
 </Library>
