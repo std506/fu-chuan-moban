@@ -22,6 +22,12 @@
 	<Item Name="HexToData" Type="Folder">
 		<Item Name="HexToDate.vi" Type="VI" URL="../HexToData/HexToDate.vi"/>
 		<Item Name="HexToFloat.vi" Type="VI" URL="../HexToData/HexToFloat.vi"/>
+		<Item Name="HexToWord.vi" Type="VI" URL="../HexToData/HexToWord.vi"/>
+	</Item>
+	<Item Name="DataToHex" Type="Folder">
+		<Item Name="DataToHex.vi" Type="VI" URL="../DataToHex/DataToHex.vi"/>
+		<Item Name="FloatToHex.vi" Type="VI" URL="../DataToHex/FloatToHex.vi"/>
+		<Item Name="WordToHex.vi" Type="VI" URL="../DataToHex/WordToHex.vi"/>
 	</Item>
 	<Item Name="反控" Type="Folder">
 		<Item Name="反控参数设置.vi" Type="VI" URL="../反控/反控参数设置.vi"/>
@@ -48,5 +54,9 @@
 		<Item Name="仪器参数转data in.vi" Type="VI" URL="../数据库/仪器参数转data in.vi"/>
 		<Item Name="在线监测仪器仪表参数.vi" Type="VI" URL="../数据库/在线监测仪器仪表参数.vi"/>
 		<Item Name="执行结果反馈与日志存储.vi" Type="VI" URL="../数据库/执行结果反馈与日志存储.vi"/>
+	</Item>
+	<Item Name="subvi" Type="Folder">
+		<Item Name="关键参数转u16数组.vi" Type="VI" URL="../subvi/关键参数转u16数组.vi"/>
+		<Item Name="校准信息转u16数组.vi" Type="VI" URL="../subvi/校准信息转u16数组.vi"/>
 	</Item>
 </Library>

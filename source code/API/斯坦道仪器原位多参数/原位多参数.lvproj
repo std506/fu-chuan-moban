@@ -218,6 +218,7 @@
 			<Item Name="多参数24H周期设置.xctl" Type="XControl" URL="../../共用控件/多参数24H周期设置/多参数24H周期设置.xctl"/>
 			<Item Name="多参数横条运行状态.xctl" Type="XControl" URL="../控件/多参数横条运行状态/多参数横条运行状态.xctl"/>
 			<Item Name="数据库类型.ctl" Type="VI" URL="../../database/control/数据库类型.ctl"/>
+			<Item Name="外部调用接口全局变量.vi" Type="VI" URL="../../database/Interface/外部调用接口/外部调用接口全局变量.vi"/>
 			<Item Name="原位多参数单参数数据插入.vi" Type="VI" URL="../../database/Interface/原位多参数单参数数据插入.vi"/>
 			<Item Name="原位多参数单参数字段定义.ctl" Type="VI" URL="../../database/control/原位多参数单参数字段定义.ctl"/>
 			<Item Name="原位多参数全参数数据插入.vi" Type="VI" URL="../../database/Interface/原位多参数全参数数据插入.vi"/>
