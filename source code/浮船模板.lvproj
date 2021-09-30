@@ -873,6 +873,7 @@
 			<Item Name="外部调用接口全局变量.vi" Type="VI" URL="../API/database/Interface/外部调用接口/外部调用接口全局变量.vi"/>
 			<Item Name="Alarm interface.lvlib" Type="Library" URL="../API/Alarm interface/Alarm interface.lvlib"/>
 			<Item Name="ZK定时设置.xctl" Type="XControl" URL="../API/共用控件/ZK定时周期/ZK定时设置.xctl"/>
+			<Item Name="启动参数.ctl" Type="VI" URL="../API/共用控件/内部交互/启动参数.ctl"/>
 		</Item>
 		<Item Name="程序生成规范" Type="Build">
 			<Item Name="浮船水质自动监测系统" Type="EXE">
@@ -890,7 +891,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/LabVIEW Project/builds/NI_AB_PROJECTNAME/浮船水质自动监测系统</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D2FBB827-1878-4DE1-A43E-88C2716D5DCE}</Property>
-				<Property Name="Bld_version.build" Type="Int">189</Property>
+				<Property Name="Bld_version.build" Type="Int">190</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Bld_version.patch" Type="Int">5</Property>
