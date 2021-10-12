@@ -103,6 +103,7 @@
 			<Item Name="废液监测界面.vi" Type="VI" URL="../IO连接/废液监测/废液监测界面.vi"/>
 			<Item Name="废液监测2界面.vi" Type="VI" URL="../IO连接/废液监测/废液监测2界面.vi"/>
 		</Item>
+		<Item Name="IO状态读取 (子VI).vi" Type="VI" URL="../IO连接/IO状态读取 (子VI).vi"/>
 	</Item>
 	<Item Name="串口、TCP连接" Type="Folder">
 		<Item Name="空调系统" Type="Folder">
