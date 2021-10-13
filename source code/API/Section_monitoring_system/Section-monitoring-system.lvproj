@@ -161,6 +161,8 @@
 				<Item Name="SQLite_Is Encrypted.vi" Type="VI" URL="/&lt;userlib&gt;/_LVST/sqlite_api/API/Utilities/SQLite_Is Encrypted.vi"/>
 				<Item Name="sqlite3x32.dll" Type="Document" URL="/&lt;userlib&gt;/_LVST/sqlite_api/SQLite DLL/sqlite3x32.dll"/>
 				<Item Name="sqlite3.dylib" Type="Document" URL="/&lt;userlib&gt;/_LVST/sqlite_api/SQLite DLL/sqlite3.dylib"/>
+				<Item Name="Current VIs Parents Ref__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Current VIs Parents Ref__ogtk.vi"/>
+				<Item Name="Fit VI window to Largest Dec__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Fit VI window to Largest Dec__ogtk.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -190,6 +192,28 @@
 				<Item Name="VISA Configure Serial Port (Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Instr).vi"/>
 				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
+				<Item Name="Dialog__lava_lib_ui_tools.lvlib" Type="Library" URL="/&lt;vilib&gt;/LAVA/UI Tools/Dialog/Dialog/Dialog__lava_lib_ui_tools.lvlib"/>
+				<Item Name="Calculate Area__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Alignment/Calculate Area__lava_lib_ui_tools.vi"/>
+				<Item Name="Calculate Intersection__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Alignment/Calculate Intersection__lava_lib_ui_tools.vi"/>
+				<Item Name="Calculate_GObject_Rectangle__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Alignment/Calculate_GObject_Rectangle__lava_lib_ui_tools.vi"/>
+				<Item Name="SetTransparency(U8)__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/SetTransparency(U8)__lava_lib_ui_tools.vi"/>
+				<Item Name="TopLeft_Size_to_Rectangle__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Alignment/TopLeft_Size_to_Rectangle__lava_lib_ui_tools.vi"/>
+				<Item Name="Calculate Center__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Alignment/Calculate Center__lava_lib_ui_tools.vi"/>
+				<Item Name="RectSize.vi" Type="VI" URL="/&lt;vilib&gt;/picture/PictureSupport.llb/RectSize.vi"/>
+				<Item Name="Rectangle Size__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Alignment/Rectangle Size__lava_lib_ui_tools.vi"/>
+				<Item Name="SetTransparency__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/SetTransparency__lava_lib_ui_tools.vi"/>
+				<Item Name="SetTransparency(Polymorphic)__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/SetTransparency(Polymorphic)__lava_lib_ui_tools.vi"/>
+				<Item Name="_ExponentialCalculation__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/_ExponentialCalculation__lava_lib_ui_tools.vi"/>
+				<Item Name="_fadetype__lava_lib_ui_tools.ctl" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/_fadetype__lava_lib_ui_tools.ctl"/>
+				<Item Name="_Fade(I32)__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/_Fade(I32)__lava_lib_ui_tools.vi"/>
+				<Item Name="Fade__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/Fade__lava_lib_ui_tools.vi"/>
+				<Item Name="_Fade(String)__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/_Fade(String)__lava_lib_ui_tools.vi"/>
+				<Item Name="Fade (Polymorphic)__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/Fade (Polymorphic)__lava_lib_ui_tools.vi"/>
+				<Item Name="_Rect2TopLeftPoint__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Alignment/_Rect2TopLeftPoint__lava_lib_ui_tools.vi"/>
+				<Item Name="_Fade In(I32)__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/_Fade In(I32)__lava_lib_ui_tools.vi"/>
+				<Item Name="Fade In__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/Fade In__lava_lib_ui_tools.vi"/>
+				<Item Name="_Fade In(String)__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/_Fade In(String)__lava_lib_ui_tools.vi"/>
+				<Item Name="Fade In(Polymorphic)__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/Fade In(Polymorphic)__lava_lib_ui_tools.vi"/>
 			</Item>
 			<Item Name="checkbox.ctl" Type="VI" URL="../function/control/checkbox.ctl"/>
 			<Item Name="SQLite Lib.lvlib" Type="Library" URL="../../database/SQLite/SQLite Lib.lvlib"/>
@@ -204,6 +228,9 @@
 			<Item Name="操作日志数据插入.vi" Type="VI" URL="../../database/Interface/操作日志数据插入.vi"/>
 			<Item Name="报警信息字段定义.ctl" Type="VI" URL="../../database/control/报警信息字段定义.ctl"/>
 			<Item Name="报警信息数据插入.vi" Type="VI" URL="../../database/Interface/报警信息数据插入.vi"/>
+			<Item Name="外部调用接口全局变量.vi" Type="VI" URL="../../database/Interface/外部调用接口/外部调用接口全局变量.vi"/>
+			<Item Name="集成多参数单参数字段定义.ctl" Type="VI" URL="../../database/control/集成多参数单参数字段定义.ctl"/>
+			<Item Name="集成多参数单参数数据插入.vi" Type="VI" URL="../../database/Interface/集成多参数单参数数据插入.vi"/>
 		</Item>
 		<Item Name="程序生成规范" Type="Build">
 			<Item Name="SectionSystem" Type="EXE">
@@ -222,7 +249,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F5DA551C-EA90-41FD-A463-50A5ED39411E}</Property>
-				<Property Name="Bld_version.build" Type="Int">76</Property>
+				<Property Name="Bld_version.build" Type="Int">77</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">SectionSystem.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/SectionSystem/SectionSystem.exe</Property>

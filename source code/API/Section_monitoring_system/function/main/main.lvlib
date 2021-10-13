@@ -14,6 +14,7 @@
 	<Item Name="Format table.vi" Type="VI" URL="../Format table.vi"/>
 	<Item Name="Simple Parse State Queue.vi" Type="VI" URL="../Simple Parse State Queue.vi"/>
 	<Item Name="保存数据.vi" Type="VI" URL="../保存数据.vi"/>
+	<Item Name="标样核查操作框.vi" Type="VI" URL="../标样核查操作框.vi"/>
 	<Item Name="参数初始化.vi" Type="VI" URL="../参数初始化.vi"/>
 	<Item Name="参数设置界面.vi" Type="VI" URL="../参数设置界面.vi"/>
 	<Item Name="调试画面.vi" Type="VI" URL="../调试画面.vi"/>

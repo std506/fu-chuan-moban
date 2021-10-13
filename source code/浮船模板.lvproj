@@ -409,6 +409,28 @@
 				<Item Name="Write Delimited Spreadsheet (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (DBL).vi"/>
 				<Item Name="Write Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet.vi"/>
 				<Item Name="Get File Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get File Extension.vi"/>
+				<Item Name="Dialog__lava_lib_ui_tools.lvlib" Type="Library" URL="/&lt;vilib&gt;/LAVA/UI Tools/Dialog/Dialog/Dialog__lava_lib_ui_tools.lvlib"/>
+				<Item Name="Calculate_GObject_Rectangle__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Alignment/Calculate_GObject_Rectangle__lava_lib_ui_tools.vi"/>
+				<Item Name="Calculate Intersection__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Alignment/Calculate Intersection__lava_lib_ui_tools.vi"/>
+				<Item Name="Calculate Area__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Alignment/Calculate Area__lava_lib_ui_tools.vi"/>
+				<Item Name="SetTransparency(U8)__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/SetTransparency(U8)__lava_lib_ui_tools.vi"/>
+				<Item Name="Rectangle Size__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Alignment/Rectangle Size__lava_lib_ui_tools.vi"/>
+				<Item Name="RectSize.vi" Type="VI" URL="/&lt;vilib&gt;/picture/PictureSupport.llb/RectSize.vi"/>
+				<Item Name="Calculate Center__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Alignment/Calculate Center__lava_lib_ui_tools.vi"/>
+				<Item Name="TopLeft_Size_to_Rectangle__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Alignment/TopLeft_Size_to_Rectangle__lava_lib_ui_tools.vi"/>
+				<Item Name="SetTransparency(Polymorphic)__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/SetTransparency(Polymorphic)__lava_lib_ui_tools.vi"/>
+				<Item Name="SetTransparency__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/SetTransparency__lava_lib_ui_tools.vi"/>
+				<Item Name="Fade (Polymorphic)__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/Fade (Polymorphic)__lava_lib_ui_tools.vi"/>
+				<Item Name="_Fade(I32)__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/_Fade(I32)__lava_lib_ui_tools.vi"/>
+				<Item Name="_fadetype__lava_lib_ui_tools.ctl" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/_fadetype__lava_lib_ui_tools.ctl"/>
+				<Item Name="_ExponentialCalculation__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/_ExponentialCalculation__lava_lib_ui_tools.vi"/>
+				<Item Name="_Fade(String)__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/_Fade(String)__lava_lib_ui_tools.vi"/>
+				<Item Name="Fade__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/Fade__lava_lib_ui_tools.vi"/>
+				<Item Name="_Rect2TopLeftPoint__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Alignment/_Rect2TopLeftPoint__lava_lib_ui_tools.vi"/>
+				<Item Name="Fade In(Polymorphic)__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/Fade In(Polymorphic)__lava_lib_ui_tools.vi"/>
+				<Item Name="_Fade In(I32)__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/_Fade In(I32)__lava_lib_ui_tools.vi"/>
+				<Item Name="_Fade In(String)__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/_Fade In(String)__lava_lib_ui_tools.vi"/>
+				<Item Name="Fade In__lava_lib_ui_tools.vi" Type="VI" URL="/&lt;vilib&gt;/LAVA/UI Tools/Fading/Fade In__lava_lib_ui_tools.vi"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Type Descriptor Enumeration__ogtk.ctl" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Type Descriptor Enumeration__ogtk.ctl"/>
@@ -760,6 +782,8 @@
 				<Item Name="Filter 1D Array with Scalar (U64)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Filter 1D Array with Scalar (U64)__ogtk.vi"/>
 				<Item Name="Filter 1D Array (LVObject)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Filter 1D Array (LVObject)__ogtk.vi"/>
 				<Item Name="Filter 1D Array with Scalar (LVObject)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Filter 1D Array with Scalar (LVObject)__ogtk.vi"/>
+				<Item Name="Current VIs Parents Ref__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Current VIs Parents Ref__ogtk.vi"/>
+				<Item Name="Fit VI window to Largest Dec__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Fit VI window to Largest Dec__ogtk.vi"/>
 			</Item>
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -891,7 +915,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/LabVIEW Project/builds/NI_AB_PROJECTNAME/浮船水质自动监测系统</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D2FBB827-1878-4DE1-A43E-88C2716D5DCE}</Property>
-				<Property Name="Bld_version.build" Type="Int">199</Property>
+				<Property Name="Bld_version.build" Type="Int">200</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Bld_version.patch" Type="Int">6</Property>
