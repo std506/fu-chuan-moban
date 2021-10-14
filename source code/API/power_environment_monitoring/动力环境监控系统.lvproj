@@ -593,7 +593,7 @@
 				<Property Name="Source[2].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[2].type" Type="Str">VI</Property>
 				<Property Name="Source[20].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[20].itemID" Type="Ref">/我的电脑/环境动力监测库.lvlib/联动声光报警(子VI).vi</Property>
+				<Property Name="Source[20].itemID" Type="Ref">/我的电脑/环境动力监测库.lvlib/IO连接/联动声光报警(子VI).vi</Property>
 				<Property Name="Source[20].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[20].type" Type="Str">VI</Property>
 				<Property Name="Source[3].Container.applyInclusion" Type="Bool">true</Property>
