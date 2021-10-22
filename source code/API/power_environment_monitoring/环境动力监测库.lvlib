@@ -128,7 +128,6 @@
 				<Item Name="获取直流负载信息.vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/获取直流负载信息.vi"/>
 			</Item>
 			<Item Name="太阳能控制器参数配置.vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/太阳能控制器参数配置.vi"/>
-			<Item Name="报警设置.vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/报警设置.vi"/>
 			<Item Name="太阳能控制器全局.vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/太阳能控制器全局.vi"/>
 			<Item Name="open Serial MB.vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/open Serial MB.vi"/>
 			<Item Name="open TCP MB.vi" Type="VI" URL="../串口、TCP连接/太阳能控制器/MTTP/open TCP MB.vi"/>
