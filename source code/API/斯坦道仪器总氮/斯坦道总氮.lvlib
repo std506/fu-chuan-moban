@@ -218,7 +218,6 @@
 			<Item Name="总磷总氮启动参数对话框.vi" Type="VI" URL="../总磷总氮/UI/总磷总氮启动参数对话框.vi"/>
 			<Item Name="定时启动对话框.vi" Type="VI" URL="../总磷总氮/UI/定时启动对话框.vi"/>
 			<Item Name="总磷总氮质控参数设置.vi" Type="VI" URL="../总磷总氮/总磷总氮质控参数设置.vi"/>
-			<Item Name="总磷总氮周期设置.vi" Type="VI" URL="../总磷总氮/总磷总氮周期设置.vi"/>
 			<Item Name="串口配置.vi" Type="VI" URL="../Subvi/串口配置.vi"/>
 		</Item>
 		<Item Name="参数设置" Type="Folder">

@@ -1,0 +1,1035 @@
+【21/10/26 10:46:12.191】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:12.862】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:13.950】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:14.868】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:15.877】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:16.868】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:17.920】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:18.911】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:19.866】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:20.933】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:21.924】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:22.859】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:23.866】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:24.874】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:25.866】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:26.870】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:27.883】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:28.891】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:29.895】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:30.919】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:31.878】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:32.892】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:33.884】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:34.871】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:35.870】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:36.888】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:37.873】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:38.919】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:39.877】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:46:40.930】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:41.405】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:41.592】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:42.594】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:43.605】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:44.584】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:45.661】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:46.581】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:47.587】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:48.571】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:49.578】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:50.574】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:52.415】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:52.596】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:53.601】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:54.633】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:55.634】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:56.601】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:57.591】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:58.603】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:48:59.607】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:49:00.585】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:49:01.578】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:49:02.728】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:49:03.585】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:49:04.598】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:49:05.582】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:49:06.585】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:49:07.628】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:49:08.601】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:49:09.667】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:11.913】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:16.754】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:16.937】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:17.940】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:18.947】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:19.951】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:21.013】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:21.951】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:22.955】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:23.975】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:24.947】:错误1发生于 "NI_Database_API.lvlib:Cmd getData.vi"
+
+可能原因：
+Object 0x000000 is not valid.
+【21/10/26 10:51:25.928】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:26.952】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:27.933】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:28.934】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:29.956】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:31.092】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:31.956】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:32.957】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:33.946】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:34.978】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:35.958】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:36.948】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:37.957】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:38.939】:错误1发生于 "NI_Database_API.lvlib:Cmd getData.vi"
+
+可能原因：
+Object 0x000000 is not valid.
+【21/10/26 10:51:39.935】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:40.937】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:41.984】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:42.940】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:51:43.961】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:06.369】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:06.830】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:07.820】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:08.824】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:09.825】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:10.949】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:11.848】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:12.822】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:13.812】:错误1发生于 "NI_Database_API.lvlib:Cmd getData.vi"
+
+可能原因：
+Object 0x000000 is not valid.
+【21/10/26 10:52:14.845】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:15.827】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:16.837】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:17.836】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:18.812】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:19.800】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:20.841】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:21.846】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:22.821】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:23.824】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:24.960】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:25.818】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:26.842】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:27.834】:错误1发生于 "NI_Database_API.lvlib:Cmd getData.vi"
+
+可能原因：
+Object 0x000000 is not valid.
+【21/10/26 10:52:28.817】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:29.809】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:30.827】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:31.855】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:32.822】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:33.813】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:52:34.829】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:04.220】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:04.923】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:05.873】:错误1发生于 "NI_Database_API.lvlib:Cmd getData.vi"
+
+可能原因：
+Object 0x000000 is not valid.
+【21/10/26 10:54:06.874】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:07.867】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:08.849】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:09.863】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:10.881】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:12.375】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:12.961】:错误1发生于 "NI_Database_API.lvlib:Cmd getData.vi"
+
+可能原因：
+Object 0x000000 is not valid.
+【21/10/26 10:54:13.888】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:14.960】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:15.931】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:16.905】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:17.885】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:18.891】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:19.890】:错误1发生于 "NI_Database_API.lvlib:Cmd getData.vi"
+
+可能原因：
+Object 0x000000 is not valid.
+【21/10/26 10:54:20.944】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:21.948】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:22.887】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:23.953】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:24.897】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:25.889】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:26.926】:错误1发生于 "NI_Database_API.lvlib:Cmd getData.vi"
+
+可能原因：
+Object 0x000000 is not valid.
+【21/10/26 10:54:27.878】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:28.890】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:29.981】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:30.915】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:31.892】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:54:32.895】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:35.550】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:36.115】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:37.119】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:38.124】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:39.140】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:40.154】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:41.134】:错误1发生于 "NI_Database_API.lvlib:Cmd getData.vi"
+
+可能原因：
+Object 0x000000 is not valid.
+【21/10/26 10:55:42.148】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:43.140】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:44.140】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:45.149】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:46.129】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:47.130】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:48.128】:错误1发生于 "NI_Database_API.lvlib:Cmd getData.vi"
+
+可能原因：
+Object 0x000000 is not valid.
+【21/10/26 10:55:49.118】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:50.112】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:51.117】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:52.125】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:53.112】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:54.123】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:55.159】:错误1发生于 "NI_Database_API.lvlib:Cmd getData.vi"
+
+可能原因：
+Object 0x000000 is not valid.
+【21/10/26 10:55:56.118】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:57.127】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:58.312】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:55:59.121】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:56:00.120】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:56:01.490】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:56:02.086】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:56:04.196】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:56:04.354】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:57:45.282】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:57:45.777】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:57:46.764】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:57:47.776】:错误1发生于 "NI_Database_API.lvlib:Cmd getData.vi"
+
+可能原因：
+Object 0x000000 is not valid.
+【21/10/26 10:57:48.807】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:57:49.805】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:57:50.789】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:57:52.030】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:57:52.861】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:57:53.799】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:57:54.792】:错误1发生于 "NI_Database_API.lvlib:Cmd getData.vi"
+
+可能原因：
+Object 0x000000 is not valid.
+【21/10/26 10:57:56.425】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:57:57.716】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:57:57.922】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:57:58.911】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:57:59.911】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:58:00.912】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:58:01.904】:错误1发生于 "NI_Database_API.lvlib:Cmd getData.vi"
+
+可能原因：
+Object 0x000000 is not valid.
+【21/10/26 10:58:02.904】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:58:03.922】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:58:04.905】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:58:06.139】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:58:06.915】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:58:07.929】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:58:08.910】:错误1发生于 "NI_Database_API.lvlib:Cmd getData.vi"
+
+可能原因：
+Object 0x000000 is not valid.
+【21/10/26 10:58:09.921】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:58:10.919】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:58:11.904】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:58:12.912】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
+【21/10/26 10:58:13.940】:错误-2147217843发生于 NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2
+
+可能原因：
+ADO Error: 0x80040E4D
+NI_Database_API.lvlib:DB Tools Open Connec (String).vi->Access Lib.lvlib:Access insert values.vi:3760009->insert values.vi:620008->营养盐数据插入.vi:3760001->斯坦道氨氮.lvlib:总磷氨氮插入数据.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi->斯坦道氨氮.lvlib:总磷总氮测量数据储存.vi.ACBRProxyCaller.3B9000A2中的Exception occured in Microsoft JET Database Engine: 密码无效。
