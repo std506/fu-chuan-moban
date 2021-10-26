@@ -876,8 +876,6 @@
 			<Item Name="超标留样交互.ctl" Type="VI" URL="../API/共用控件/内部交互/超标留样交互.ctl"/>
 			<Item Name="系统交互.ctl" Type="VI" URL="../API/共用控件/内部交互/系统交互.ctl"/>
 			<Item Name="多参数交互.ctl" Type="VI" URL="../API/共用控件/内部交互/多参数交互.ctl"/>
-			<Item Name="测试子流程.ctl" Type="VI" URL="../API/共用控件/内部交互/测试子流程.ctl"/>
-			<Item Name="质控slave id.ctl" Type="VI" URL="../API/共用控件/内部交互/质控slave id.ctl"/>
 			<Item Name="NMEA气象仪数据插入.vi" Type="VI" URL="../API/database/Interface/NMEA气象仪数据插入.vi"/>
 			<Item Name="NMAE气象仪字段定义.ctl" Type="VI" URL="../API/database/control/NMAE气象仪字段定义.ctl"/>
 			<Item Name="WXA100气象仪数据插入.vi" Type="VI" URL="../API/database/Interface/WXA100气象仪数据插入.vi"/>
@@ -923,7 +921,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/LabVIEW Project/builds/NI_AB_PROJECTNAME/浮船水质自动监测系统</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D2FBB827-1878-4DE1-A43E-88C2716D5DCE}</Property>
-				<Property Name="Bld_version.build" Type="Int">209</Property>
+				<Property Name="Bld_version.build" Type="Int">210</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Bld_version.patch" Type="Int">8</Property>
