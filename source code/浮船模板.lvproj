@@ -881,9 +881,7 @@
 			<Item Name="WXA100气象仪数据插入.vi" Type="VI" URL="../API/database/Interface/WXA100气象仪数据插入.vi"/>
 			<Item Name="WXA100气象仪字段定义.ctl" Type="VI" URL="../API/database/control/WXA100气象仪字段定义.ctl"/>
 			<Item Name="main.lvlib" Type="Library" URL="../API/Section_monitoring_system/function/main/main.lvlib"/>
-			<Item Name="elevator.lvlib" Type="Library" URL="../API/Section_monitoring_system/function/elevator/elevator.lvlib"/>
 			<Item Name="EXO2.lvlib" Type="Library" URL="../API/Section_monitoring_system/function/EXO2/EXO2.lvlib"/>
-			<Item Name="DAM395CF.lvlib" Type="Library" URL="../API/Section_monitoring_system/function/DAM395CF/DAM395CF.lvlib"/>
 			<Item Name="DST800.lvlib" Type="Library" URL="../API/Section_monitoring_system/function/DST800/DST800.lvlib"/>
 			<Item Name="NAQ_DO.lvlib" Type="Library" URL="../API/Section_monitoring_system/function/NAQ_DO/NAQ_DO.lvlib"/>
 			<Item Name="bbe.lvlib" Type="Library" URL="../API/Section_monitoring_system/function/bbe/bbe.lvlib"/>
@@ -904,6 +902,7 @@
 			<Item Name="国标启动命令.vi" Type="VI" URL="../Modbus Slave/启动命令/国标启动命令.vi"/>
 			<Item Name="SingleStepTestV3.lvclass" Type="LVClass" URL="../API/共用控件/SingleStepTestV3/SingleStepTestV3.lvclass"/>
 			<Item Name="TimingControl.lvclass" Type="LVClass" URL="../API/共用控件/TimingControl/TimingControl.lvclass"/>
+			<Item Name="PLC.lvlib" Type="Library" URL="../API/Section_monitoring_system/function/DAM395CF/PLC.lvlib"/>
 		</Item>
 		<Item Name="程序生成规范" Type="Build">
 			<Item Name="浮船水质自动监测系统" Type="EXE">
@@ -921,7 +920,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/LabVIEW Project/builds/NI_AB_PROJECTNAME/浮船水质自动监测系统</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D2FBB827-1878-4DE1-A43E-88C2716D5DCE}</Property>
-				<Property Name="Bld_version.build" Type="Int">211</Property>
+				<Property Name="Bld_version.build" Type="Int">212</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Bld_version.patch" Type="Int">8</Property>

@@ -12,9 +12,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="bbe.lvlib" Type="Library" URL="../function/bbe/bbe.lvlib"/>
-		<Item Name="DAM395CF.lvlib" Type="Library" URL="../function/DAM395CF/DAM395CF.lvlib"/>
+		<Item Name="PLC.lvlib" Type="Library" URL="../function/DAM395CF/PLC.lvlib"/>
 		<Item Name="DST800.lvlib" Type="Library" URL="../function/DST800/DST800.lvlib"/>
-		<Item Name="elevator.lvlib" Type="Library" URL="../function/elevator/elevator.lvlib"/>
 		<Item Name="EXO2.lvlib" Type="Library" URL="../function/EXO2/EXO2.lvlib"/>
 		<Item Name="NAQ_DO.lvlib" Type="Library" URL="../function/NAQ_DO/NAQ_DO.lvlib"/>
 		<Item Name="main.lvlib" Type="Library" URL="../function/main/main.lvlib"/>
@@ -249,7 +248,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F5DA551C-EA90-41FD-A463-50A5ED39411E}</Property>
-				<Property Name="Bld_version.build" Type="Int">77</Property>
+				<Property Name="Bld_version.build" Type="Int">82</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">SectionSystem.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/SectionSystem/SectionSystem.exe</Property>

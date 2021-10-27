@@ -6,7 +6,6 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="告警" Type="Folder">
 		<Item Name="告警处理.vi" Type="VI" URL="../告警处理.vi"/>
-		<Item Name="位置变化值监测.vi" Type="VI" URL="../位置变化值监测.vi"/>
 	</Item>
 	<Item Name="Add State to Queue.vi" Type="VI" URL="../Add State to Queue.vi"/>
 	<Item Name="BBE数据写入.vi" Type="VI" URL="../BBE数据写入.vi"/>

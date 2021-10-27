@@ -4,10 +4,20 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="open MB.vi" Type="VI" URL="../open MB.vi"/>
-	<Item Name="读取计数值.vi" Type="VI" URL="../读取计数值.vi"/>
-	<Item Name="读输出状态.vi" Type="VI" URL="../读输出状态.vi"/>
-	<Item Name="读输入状态.vi" Type="VI" URL="../读输入状态.vi"/>
-	<Item Name="写入计数值.vi" Type="VI" URL="../写入计数值.vi"/>
-	<Item Name="写输出状态.vi" Type="VI" URL="../写输出状态.vi"/>
+	<Item Name="参数配置.vi" Type="VI" URL="../参数配置.vi"/>
+	<Item Name="仪器通电.vi" Type="VI" URL="../仪器通电.vi"/>
+	<Item Name="运行至待机位.vi" Type="VI" URL="../运行至待机位.vi"/>
+	<Item Name="定位位置设置.vi" Type="VI" URL="../定位位置设置.vi"/>
+	<Item Name="定位启动.vi" Type="VI" URL="../定位启动.vi"/>
+	<Item Name="定位状态.vi" Type="VI" URL="../定位状态.vi"/>
+	<Item Name="编码器校准.vi" Type="VI" URL="../编码器校准.vi"/>
+	<Item Name="停止命令.vi" Type="VI" URL="../停止命令.vi"/>
+	<Item Name="获取运行状态.vi" Type="VI" URL="../获取运行状态.vi"/>
+	<Item Name="中间变量.vi" Type="VI" URL="../中间变量.vi"/>
+	<Item Name="手动上升命令.vi" Type="VI" URL="../手动上升命令.vi"/>
+	<Item Name="手动下降命令.vi" Type="VI" URL="../手动下降命令.vi"/>
+	<Item Name="配置读取.vi" Type="VI" URL="../配置读取.vi"/>
+	<Item Name="告警确认.vi" Type="VI" URL="../告警确认.vi"/>
 </Library>
