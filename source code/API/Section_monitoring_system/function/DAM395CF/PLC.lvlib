@@ -20,4 +20,5 @@
 	<Item Name="手动下降命令.vi" Type="VI" URL="../手动下降命令.vi"/>
 	<Item Name="配置读取.vi" Type="VI" URL="../配置读取.vi"/>
 	<Item Name="告警确认.vi" Type="VI" URL="../告警确认.vi"/>
+	<Item Name="强制手动.vi" Type="VI" URL="../强制手动.vi"/>
 </Library>
