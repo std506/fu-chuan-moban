@@ -46,6 +46,9 @@
 			<Item Name="索引数据并插入.vi" Type="VI" URL="../subvi/SQL/索引数据并插入.vi"/>
 			<Item Name="自动添加所有参数数据.vi" Type="VI" URL="../subvi/SQL/自动添加所有参数数据.vi"/>
 		</Item>
+		<Item Name="sync" Type="Folder">
+			<Item Name="databasesync.vi" Type="VI" URL="../subvi/databasesync.vi"/>
+		</Item>
 		<Item Name="web" Type="Folder">
 			<Item Name="create html.vi" Type="VI" URL="../web/create html.vi"/>
 			<Item Name="get echarts JS.vi" Type="VI" URL="../web/get echarts JS.vi"/>
@@ -66,4 +69,6 @@
 	</Item>
 	<Item Name="holding var.vi" Type="VI" URL="../var/holding var.vi"/>
 	<Item Name="全局变量.vi" Type="VI" URL="../var/全局变量.vi"/>
+	<Item Name="数据查询单选控件.ctl" Type="VI" URL="../control/数据查询单选控件.ctl"/>
+	<Item Name="子菜单.ctl" Type="VI" URL="../control/子菜单.ctl"/>
 </Library>
