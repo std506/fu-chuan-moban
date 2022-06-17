@@ -7,4 +7,5 @@
 	<Item Name="EXO2 Com.vi" Type="VI" URL="../EXO2 Com.vi"/>
 	<Item Name="EXO2 Message.vi" Type="VI" URL="../EXO2 Message.vi"/>
 	<Item Name="EXO2全局变量.vi" Type="VI" URL="../EXO2全局变量.vi"/>
+	<Item Name="控件 1.ctl" Type="VI" URL="../控件 1.ctl"/>
 </Library>
