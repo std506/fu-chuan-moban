@@ -5,8 +5,8 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Item Name="tcp_client_UI.vi" Type="VI" URL="../tcp_client_UI.vi"/>
 	<Item Name="拉取dll.vi" Type="VI" URL="../拉取dll.vi"/>
-	<Item Name="解压缩.vi" Type="VI" URL="../解压缩.vi"/>
 	<Item Name="about.vi" Type="VI" URL="../about.vi"/>
 	<Item Name="check File Version.vi" Type="VI" URL="../check File Version.vi"/>
 	<Item Name="create backup files.vi" Type="VI" URL="../create backup files.vi"/>
@@ -14,12 +14,19 @@
 	<Item Name="DOS cmd.vi" Type="VI" URL="../DOS cmd.vi"/>
 	<Item Name="get update file.vi" Type="VI" URL="../get update file.vi"/>
 	<Item Name="get update log.vi" Type="VI" URL="../get update log.vi"/>
-	<Item Name="specialUrlEncode.vi" Type="VI" URL="../specialUrlEncode.vi"/>
 	<Item Name="update log.vi" Type="VI" URL="../update log.vi"/>
 	<Item Name="Update.vi" Type="VI" URL="../Update.vi"/>
 	<Item Name="UTF-8toGBK.vi" Type="VI" URL="../UTF-8toGBK.vi"/>
 	<Item Name="服务器更改对话框.vi" Type="VI" URL="../服务器更改对话框.vi"/>
 	<Item Name="更新全局变量.vi" Type="VI" URL="../更新全局变量.vi"/>
+	<Item Name="tcp_client_data.ctl" Type="VI" URL="../tcp_client_data.ctl"/>
 	<Item Name="关于.ctl" Type="VI" URL="../关于.ctl"/>
 	<Item Name="自定义双按钮对话框.vi" Type="VI" URL="../自定义双按钮对话框.vi"/>
+	<Item Name="create daemon exec.vi" Type="VI" URL="../create daemon exec.vi"/>
+	<Item Name="create daemon config.vi" Type="VI" URL="../create daemon config.vi"/>
+	<Item Name="stop daemon.vi" Type="VI" URL="../stop daemon.vi"/>
+	<Item Name="start daemon.vi" Type="VI" URL="../start daemon.vi"/>
+	<Item Name="create daemon.vi" Type="VI" URL="../create daemon.vi"/>
+	<Item Name="http client.lvclass" Type="LVClass" URL="../http client class/http client.lvclass"/>
+	<Item Name="TCP_client.lvclass" Type="LVClass" URL="../TCP_client/TCP_client.lvclass"/>
 </Library>

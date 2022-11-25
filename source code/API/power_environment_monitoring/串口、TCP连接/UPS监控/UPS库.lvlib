@@ -25,6 +25,9 @@
 		<Item Name="串口配置.vi" Type="VI" URL="../subvi/串口配置.vi"/>
 		<Item Name="UPS型号选择对话框.vi" Type="VI" URL="../subvi/UPS型号选择对话框.vi"/>
 	</Item>
+	<Item Name="控件" Type="Folder">
+		<Item Name="UPS型号.ctl" Type="VI" URL="../自定义控件/UPS型号.ctl"/>
+	</Item>
 	<Item Name="UPS内部交互全局.vi" Type="VI" URL="../UPS内部交互全局.vi"/>
 	<Item Name="UPS监控.vi" Type="VI" URL="../UPS监控.vi"/>
 	<Item Name="梦幻城堡C1~3界面.vi" Type="VI" URL="../梦幻城堡C1~3界面.vi"/>
@@ -32,4 +35,9 @@
 	<Item Name="华为UPS2000-G-(1-3KVA)界面.vi" Type="VI" URL="../华为UPS2000-G-(1-3KVA)界面.vi"/>
 	<Item Name="UPS配置同步 (子VI).vi" Type="VI" URL="../subvi/UPS配置同步 (子VI).vi"/>
 	<Item Name="UPS初始化变量(子VI).vi" Type="VI" URL="../UPS初始化变量(子VI).vi"/>
+	<Item Name="低电量告警对话框.vi" Type="VI" URL="../低电量告警对话框.vi"/>
+	<Item Name="UPS低电量告警参数配置.vi" Type="VI" URL="../UPS低电量告警参数配置.vi"/>
+	<Item Name="Kstar单相电界面.vi" Type="VI" URL="../Kstar单相电界面.vi"/>
+	<Item Name="Kstar通信.vi" Type="VI" URL="../Kstar通信.vi"/>
+	<Item Name="Kstar解析.vi" Type="VI" URL="../Kstar解析.vi"/>
 </Library>
