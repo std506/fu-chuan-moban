@@ -1080,7 +1080,6 @@
 			<Item Name="剖面数据_EXO2.ctl" Type="VI" URL="../API/database/control/剖面数据_EXO2.ctl"/>
 			<Item Name="剖面数据_bbe_NAQDO.ctl" Type="VI" URL="../API/database/control/剖面数据_bbe_NAQDO.ctl"/>
 			<Item Name="剖面数据_exo2.vi" Type="VI" URL="../API/database/Interface/剖面数据_exo2.vi"/>
-			<Item Name="剖面数据_bbe_NAQDO.vi" Type="VI" URL="../API/database/Interface/剖面数据_bbe_NAQDO.vi"/>
 			<Item Name="电子罗盘.ctl" Type="VI" URL="../API/AIRMAR WeatherCaster/电子罗盘.ctl"/>
 			<Item Name="数值显示.ctl" Type="VI" URL="../UI/控件/数值显示.ctl"/>
 			<Item Name="多数值显示.ctl" Type="VI" URL="../UI/控件/多数值显示.ctl"/>
@@ -1117,6 +1116,8 @@
 			<Item Name="工况数据接口全局.vi" Type="VI" URL="../API/共用控件/工况数据/工况数据接口全局.vi"/>
 			<Item Name="工况数据.ctl" Type="VI" URL="../API/共用控件/工况数据/工况数据.ctl"/>
 			<Item Name="控制命令与参数.ctl" Type="VI" URL="../API/共用控件/内部交互/控制命令与参数.ctl"/>
+			<Item Name="HL7.lvlib" Type="Library" URL="../API/Section_monitoring_system/HL7/HL7.lvlib"/>
+			<Item Name="Primary Productivity.lvclass" Type="LVClass" URL="../API/Section_monitoring_system/Primary Productivity/Primary Productivity.lvclass"/>
 		</Item>
 		<Item Name="程序生成规范" Type="Build">
 			<Item Name="浮船水质自动监测系统" Type="EXE">
@@ -1134,7 +1135,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/LabVIEW Project/builds/NI_AB_PROJECTNAME/浮船水质自动监测系统</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D2FBB827-1878-4DE1-A43E-88C2716D5DCE}</Property>
-				<Property Name="Bld_version.build" Type="Int">250</Property>
+				<Property Name="Bld_version.build" Type="Int">251</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Bld_version.patch" Type="Int">11</Property>

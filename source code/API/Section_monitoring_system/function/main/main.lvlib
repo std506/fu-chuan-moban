@@ -9,16 +9,21 @@
 	</Item>
 	<Item Name="Add State to Queue.vi" Type="VI" URL="../Add State to Queue.vi"/>
 	<Item Name="BBE数据写入.vi" Type="VI" URL="../BBE数据写入.vi"/>
+	<Item Name="EXO存单表数据.vi" Type="VI" URL="../EXO存单表数据.vi"/>
+	<Item Name="EXO设置.vi" Type="VI" URL="../EXO设置.vi"/>
 	<Item Name="EXO数据写入.vi" Type="VI" URL="../EXO数据写入.vi"/>
 	<Item Name="Format table.vi" Type="VI" URL="../Format table.vi"/>
+	<Item Name="HL7 Handle.vi" Type="VI" URL="../HL7 Handle.vi"/>
 	<Item Name="Simple Parse State Queue.vi" Type="VI" URL="../Simple Parse State Queue.vi"/>
 	<Item Name="保存数据.vi" Type="VI" URL="../保存数据.vi"/>
 	<Item Name="标样核查操作框.vi" Type="VI" URL="../标样核查操作框.vi"/>
 	<Item Name="参数初始化.vi" Type="VI" URL="../参数初始化.vi"/>
 	<Item Name="参数设置界面.vi" Type="VI" URL="../参数设置界面.vi"/>
+	<Item Name="初级生产力线程.vi" Type="VI" URL="../初级生产力线程.vi"/>
 	<Item Name="调试画面.vi" Type="VI" URL="../调试画面.vi"/>
 	<Item Name="配置保存写入.vi" Type="VI" URL="../配置保存写入.vi"/>
 	<Item Name="剖面路径规划.vi" Type="VI" URL="../剖面路径规划.vi"/>
+	<Item Name="剖面启动选择.vi" Type="VI" URL="../剖面启动选择.vi"/>
 	<Item Name="剖面视图.vi" Type="VI" URL="../剖面视图.vi"/>
 	<Item Name="剖面运行流程.vi" Type="VI" URL="../剖面运行流程.vi"/>
 	<Item Name="全局断电保存变量.vi" Type="VI" URL="../全局断电保存变量.vi"/>
