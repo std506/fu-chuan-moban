@@ -23,6 +23,7 @@
 		<Item Name="HexToDate.vi" Type="VI" URL="../HexToData/HexToDate.vi"/>
 		<Item Name="HexToFloat.vi" Type="VI" URL="../HexToData/HexToFloat.vi"/>
 		<Item Name="HexToWord.vi" Type="VI" URL="../HexToData/HexToWord.vi"/>
+		<Item Name="HexToString.vi" Type="VI" URL="../HexToData/HexToString.vi"/>
 	</Item>
 	<Item Name="DataToHex" Type="Folder">
 		<Item Name="DataToHex.vi" Type="VI" URL="../DataToHex/DataToHex.vi"/>
@@ -33,6 +34,7 @@
 		<Item Name="反控参数设置.vi" Type="VI" URL="../反控/反控参数设置.vi"/>
 		<Item Name="反控仪器参数公式.vi" Type="VI" URL="../反控/反控仪器参数公式.vi"/>
 		<Item Name="反控仪器单参数通用.vi" Type="VI" URL="../反控/反控仪器单参数通用.vi"/>
+		<Item Name="反控仪器调用.vi" Type="VI" URL="../反控/反控仪器调用.vi"/>
 	</Item>
 	<Item Name="启动命令" Type="Folder">
 		<Item Name="CODCr启动 (子VI).vi" Type="VI" URL="../启动命令/CODCr启动 (子VI).vi"/>
@@ -44,6 +46,8 @@
 		<Item Name="停止整机测试(子VI).vi" Type="VI" URL="../启动命令/停止整机测试(子VI).vi"/>
 		<Item Name="总氮启动(子VI).vi" Type="VI" URL="../启动命令/总氮启动(子VI).vi"/>
 		<Item Name="总磷启动(子VI).vi" Type="VI" URL="../启动命令/总磷启动(子VI).vi"/>
+		<Item Name="启动采配水清洗 (子VI).vi" Type="VI" URL="../启动命令/启动采配水清洗 (子VI).vi"/>
+		<Item Name="启动采配水泵阀 (子VI).vi" Type="VI" URL="../启动命令/启动采配水泵阀 (子VI).vi"/>
 	</Item>
 	<Item Name="全局变量" Type="Folder">
 		<Item Name="modbus slave全局.vi" Type="VI" URL="../全局变量/modbus slave全局.vi"/>
@@ -59,4 +63,5 @@
 		<Item Name="关键参数转u16数组.vi" Type="VI" URL="../subvi/关键参数转u16数组.vi"/>
 		<Item Name="校准信息转u16数组.vi" Type="VI" URL="../subvi/校准信息转u16数组.vi"/>
 	</Item>
+	<Item Name="启动命令类型.ctl" Type="VI" URL="../subvi/启动命令类型.ctl"/>
 </Library>
